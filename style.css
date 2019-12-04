@@ -1,0 +1,48 @@
+/*	imported fonts -
+
+font-family: 'Julius Sans One', sans-serif;
+font-family: 'Marcellus SC', serif;
+
+*/
+
+body {
+	background-image: url("img/cederic-vandenberghe-494198-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#gamename {
+	font-family: 'Marcellus SC', serif;
+	text-align: center;
+ 	text-shadow: -1px 0 #E3DAC9, 0 1px #E3DAC9, 1px 0 #E3DAC9, 0 -1px #E3DAC9;
+}
+
+#centered-behave {
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	color: white;
+}
+
+.header-behave {
+	padding-top: 17%;
+	background-color: inherit;
+}
+
+
+.padding-top {
+	padding-top: 30px;
+}
+
+.margin-bottom {
+	margin-bottom: 30px;
+}
+
+.offset-text {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.text-white {
+	color: white;
+}
